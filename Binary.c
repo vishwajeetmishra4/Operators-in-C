@@ -26,7 +26,7 @@ int main()
     printf("Product of 2 given Numbers is : %d\n",multi);
 
     //Division(Quotient) of 2 Numbers
-    div=float(number1)/number2;
+    div=number1/number2;
     printf("Quotient of 2 given numbers is : %f\n",div);
 
     //Modulo(Remainder) of 2 Numbers
