@@ -13,16 +13,13 @@ int main()
     ++number1;
     printf("The Pre-Increment value is %d",++number1);
 
-
     //Post-Increment Operator
     number1++;
     printf("The Post-Increment value is %d",number1++);
 
-
     //Pre-decrement Operator
     --number1;
     printf("The Pre-Decrement value is %d",--number1);
-
 
     //Post-Decrement Operator
     number1--;
