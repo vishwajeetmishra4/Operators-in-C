@@ -7,10 +7,10 @@ int main()
     float div;
 
     //putting value of number1 & number2 
-    printf("The Value of Number1 is :\n ");
+    printf("The Value of Number1 is :");
     scanf("%d",&number1);
 
-    printf("The Value of Number2 is:\n ");
+    printf("The Value of Number2 is: ");
     scanf("%d",&number2);
 
     //Addition of 2 Numbers
